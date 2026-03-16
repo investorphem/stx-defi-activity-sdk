@@ -15,7 +15,7 @@ The SDK indexes blockchain activity using **Hiro Chainhooks** and exposes a powe
 
 # ✨ Features
 
-- Real-time DeFi activity trackng
+- Real-time DeFi activity tracking 
 - Protocol TVL analytics
 - Deposit and withdrawal monitoring
 - Token transfer tracking
