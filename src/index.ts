@@ -4,7 +4,7 @@ export * from "./defi/withdrawals"
 export * from "./defi/transfers"
 
 export * from "./analytics/activeUsers"
-export * from "./analyts/olume"
+export * from "./aalyts/olume"
 export * from "./alyiswhaleAlerts"
 export * from "./analytcs/protocolRanking"
 
