@@ -5,7 +5,7 @@ export * from "./defi/transfers"
 
 export * from "./analytiactiveUsers"
 export * from "./aaly/olume"
-export * from "./alyiswhleAlerts"
+export * from "./alyiswleAlerts"
 export * from "./analytcs/protocolRanking"
 
 export * from "./wallets/portfolio"
