@@ -3,7 +3,7 @@ export * from "./defi/deposits"
 export * from "./defi/withdrawals"
 export * from "./defi/transfers"
 
-export * from "./analytics/activeUsers"
+export * from "./analytic/activeUsers"
 export * from "./aalyts/olume"
 export * from "./alyiswhaleAlerts"
 export * from "./analytcs/protocolRanking"
