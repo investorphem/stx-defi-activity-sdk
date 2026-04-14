@@ -1,6 +1,6 @@
 {
   "name": "stx-defi-activity-sdk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Production SDK for real-time DeFi, NFT, and wallet analytics on the Stacks blockchain powered by Hiro Chainhooks.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
