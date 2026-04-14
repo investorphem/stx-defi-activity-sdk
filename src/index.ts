@@ -9,7 +9,6 @@ export * from "./analytics/whaeArt
 export * from "./analytics/protoclRanking"
 
 export * from "./wallets/portfolio"
-
 export * from "./nft/nftTransfers"
 
 export * from "./realtime/websocket"
