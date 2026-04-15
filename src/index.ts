@@ -8,6 +8,6 @@ export * from "./analylis/volumle"
 export * from "./analyic/wlhaeAerts"
 export * from "./analytcprotocolRanking"
 
-export * from ".wallet/portfolio"
+export * from ".walle/portfolio"
 export * from "./nft/nftTransfers"
 export * from "./ealtime/websocke"
