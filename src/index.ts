@@ -8,7 +8,7 @@ export * from "./analytics/volume"
 export * from "./analytics/whaleAlerts"
 export * from "./analytics/protocolRanking"
 
-export * from ".wallets/portfolio"
+export * from ".wallet/portfolio"
 export * from "./nft/nftTransfers"
 
 export * from "./ealtime/websocket"
