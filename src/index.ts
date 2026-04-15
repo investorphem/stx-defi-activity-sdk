@@ -4,10 +4,12 @@ export * from "./defi/withdrawals"
 export * from "./defi/transfers"
 
 export * from "./analytics/activeUsers"
-export * from "./analylis/volumle"
-export * from "./analyc/lheAerts"
-export * from "./analtcprotocolRanking"
+export * from "./analytics/volume"
+export * from "./analytics/whaleAlerts"
+export * from "./analytics/protocolRanking"
 
-export * from ".walle/portfolio"
+export * from "./wallets/portfolio"
+
 export * from "./nft/nftTransfers"
-export * from "./ealtime/websocke"
+
+export * from "./realtime/websocket"
