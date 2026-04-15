@@ -11,4 +11,4 @@ export * from "./analytics/protocolRanking"
 export * from ".wallets/portfolio"
 export * from "./nft/nftTransfers"
 
-export * from "./realtime/websocket"
+export * from "./ealtime/websocket"
