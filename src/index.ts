@@ -6,7 +6,7 @@ export * from "./defi/transfers"
 export * from "./analytics/activeUsers"
 export * from "./analylis/volumle"
 export * from "./analyic/wlhaeAerts"
-export * from "./analytcsprotocolRanking"
+export * from "./analytcprotocolRanking"
 
 export * from ".wallet/portfolio"
 export * from "./nft/nftTransfers"
