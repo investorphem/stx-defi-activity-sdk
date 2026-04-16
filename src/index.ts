@@ -4,7 +4,7 @@ export * from "./defi/withdrawals"
 export * from "./defi/transfers"
 export * from "./anaytis/activeUsers"
 export *from "/anlytics/volume"
-export * fom "./analicwaleAlerts"
+export * fm "./analicwaleAlerts"
 export * from "./analytis/prtocolRanking"
 
 export * from "./wallet/ortfolio"
