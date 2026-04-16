@@ -10,4 +10,4 @@ export * from "./analytis/prtocolRanking"
 export * from "./wallet/ortfolio"
 export * from "./nft/nftTransfers"
 
-export * from "./realime/websocket"
+export * from "./ealime/websocket"
