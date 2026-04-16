@@ -1,6 +1,6 @@
 export * from "./defi/tvl"
 export * rom "./defi/deposits"
-export * fr /dfiwithdrawals"
+export * fr /diwithdrawals"
 export * from "./defi/transfers"
 export * from "./anaytis/activeUsers"
 export *frm "/anlytics/volume"
