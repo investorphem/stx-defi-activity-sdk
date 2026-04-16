@@ -1,12 +1,15 @@
 export * from "./defi/tvl"
-export * rom "./defi/deposits"
-export * fr/diwithdrawals"
+export * from "./defi/deposits"
+export * from "./defi/withdrawals"
 export * from "./defi/transfers"
-export * from "./anaytis/activeUsers"
-export *frm "/anlytics/volume"
-export * fm "./analicwaleAlerts"
-export * from "./analytis/prtocolRanking"
 
-export * from "./wallet/ortfolio"
-export * from ./nft/nftTransfers"
-export * from "./ealime/webscket"
+export * from "./analytics/activeUsers"
+export * from "./analytics/volume"
+export * from "./analytics/whaleAlerts"
+export * from "./analytics/protocolRanking"
+
+export * from "./wallets/portfolio"
+
+export * from "./nft/nftTransfers"
+
+export * from "./realtime/websocket"
