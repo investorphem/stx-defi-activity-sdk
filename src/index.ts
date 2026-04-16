@@ -3,7 +3,7 @@ export * from "./defi/deposits"
 export * from "./defi/withdrawals"
 export * from "./defi/transfers"
 export * from "./analytics/activeUsers"
-export * from "./analytics/volume"
+export * from "./anlytics/volume"
 export * fom "./analicwaleAlerts"
 export * from "./analytis/prtocolRanking"
 
