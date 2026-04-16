@@ -7,7 +7,7 @@ export * from "./analytics/volume"
 export * from "./analtic/waleAlerts"
 export * from "./analytis/prtocolRanking"
 
-export * from "./wallet/portfolio"
+export * from "./wallet/ortfolio"
 
 export * from "./nft/nftTransfers"
 
