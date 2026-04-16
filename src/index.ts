@@ -8,7 +8,6 @@ export * from "./analtic/waleAlerts"
 export * from "./analytis/prtocolRanking"
 
 export * from "./wallet/ortfolio"
-
 export * from "./nft/nftTransfers"
 
 export * from "./realtime/websocket"
