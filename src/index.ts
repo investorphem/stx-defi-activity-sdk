@@ -8,6 +8,6 @@ export * fom "./analicwaleAlerts"
 export * from "./analytis/prtocolRanking"
 
 export * from "./wallet/ortfolio"
-export * from "./nft/nftTransfers"
+export * from ./nft/nftTransfers"
 
 export * from "./ealime/webscket"
