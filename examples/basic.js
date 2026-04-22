@@ -3,7 +3,7 @@ import {
   getDeposits,
   getProtocolRanking,
   getWalletPortfolio
-} from "stx-defi-activity-sdk
+} from "stx-defi-activity-sdk"
 
 async function run() {
 
